@@ -4,7 +4,7 @@ Donate link: http://cnjcbs.com/donate
 Tags: comic sans
 Requires at least: 2.9
 Tested up to: 3.1
-Stable tag: 2.0
+Stable tag: 2.1
 
 Any Comic Sans lovers out here? This plugin gives you a complete Comic Sans website, right away! Obviously, this plugin is pun intended.
 
@@ -25,6 +25,9 @@ Changes the font of your WordPress frontend and administration panel to Comic Sa
 1. Sample of a Comic Sans powered administration panel
 
 == Changelog ==
+
+= 2.1 =
+* Added Comic Sans power for the login too
 
 = 2.0 =
 * Added Comic Sans power for the frontend too
